@@ -108,7 +108,7 @@ audio{
         font-size: 1.2rem;
     }
     .search{
-        border: 2px solid red;
+        /* border: 2px solid red; */
         width : 400px
     }
     p{
@@ -121,7 +121,7 @@ audio{
         font-size: 1rem;
     }
     .search{
-        border: 2px solid red;
+        /* border: 2px solid red; */
         width : 350px
     }
     p{
@@ -134,7 +134,7 @@ audio{
         font-size: 1rem;
     }
     .search{
-        border: 2px solid red;
+        /* border: 2px solid red; */
         width : 300px
     }
     p{
